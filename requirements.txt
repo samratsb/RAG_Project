@@ -1,0 +1,6 @@
+huggingface_hub==0.24.5
+langchain==0.2.15
+langchain_community==0.2.15
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+transformers==4.44.0
